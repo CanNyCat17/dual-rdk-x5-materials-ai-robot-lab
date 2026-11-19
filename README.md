@@ -1,10 +1,16 @@
 # 基于双 RDK X5 异构协同的材料合成 AI 预测与多机具身实验助理机器人｜2026 全国大学生嵌入式芯片与系统设计竞赛·芯片应用赛道·地瓜机器人赛题｜西南赛区一等奖·全国总决赛二等奖
 
+[![双 RDK X5 系统全景](assets/media/photos/competition-system-overview.jpg)](assets/media/photos/competition-system-overview.jpg)
+
+[播放双机械臂完整实机演示](assets/media/videos/dual-arm-complete-hardware-demo.mp4) · [完整实物图集](docs/gallery.md)
+
+| 移动实验助理整机 | 平板工作流与感知硬件 | 双机械臂固定工位 |
+| --- | --- | --- |
+| [![移动实验助理整机](assets/media/photos/competition-mobile-platform.jpg)](assets/media/photos/competition-mobile-platform.jpg) | [![平板工作流与感知硬件](assets/media/photos/competition-dashboard-and-sensors.jpg)](assets/media/photos/competition-dashboard-and-sensors.jpg) | [![双机械臂固定工位](assets/media/photos/competition-dual-arm-workcell.jpg)](assets/media/photos/competition-dual-arm-workcell.jpg) |
+
 > **2026 全国大学生嵌入式芯片与系统设计竞赛 · 芯片应用赛道 · 地瓜机器人赛题 · 西南赛区一等奖 · 全国总决赛二等奖**
 >
 > 参赛队伍：**荧光具身智研**。西南赛区一等奖、全国总决赛二等奖的官方获奖证书已公开，并以 SHA-256 绑定到奖项唯一事实源。
-
-[![项目最新硬件：移动实验助理与双机械臂工作站](assets/media/hero/project-hardware-hero.webp)](docs/gallery.md)
 
 两台 RDK X5 分担材料 AI 与具身感知计算，把材料候选、XRD/PL 分析、移动实验助理、双机械臂、STM32F407 执行层和只读证据门户连成一个可追溯且权限隔离的实验系统。
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-08-22",
+  "generated_on": "2026-11-19",
   "repository_release": "v1.0.3",
   "source_of_truth": "assets/media/MEDIA_PROVENANCE.yml",
   "entries": [
@@ -65,6 +65,42 @@
       "kind": "webp",
       "width": 1920,
       "height": 1080,
+      "frames": 1
+    },
+    {
+      "path": "assets/media/photos/competition-dashboard-and-sensors.jpg",
+      "bytes": 419889,
+      "sha256": "117ae2e758a17efb78de65fcd31555bd1a7205914509dfe3fb20f9998bbeb888",
+      "kind": "jpg",
+      "width": 1920,
+      "height": 1280,
+      "frames": 1
+    },
+    {
+      "path": "assets/media/photos/competition-dual-arm-workcell.jpg",
+      "bytes": 293111,
+      "sha256": "efdd67f9c6a4f6d2173956d233fa2fee26bd749aefd3daec483556f705a5eb70",
+      "kind": "jpg",
+      "width": 1920,
+      "height": 1280,
+      "frames": 1
+    },
+    {
+      "path": "assets/media/photos/competition-mobile-platform.jpg",
+      "bytes": 474645,
+      "sha256": "4958fe10f46b4cb5b3c037f0c80c54562eaf9cf8453f08f7ac26e30efb9cac36",
+      "kind": "jpg",
+      "width": 1280,
+      "height": 1920,
+      "frames": 1
+    },
+    {
+      "path": "assets/media/photos/competition-system-overview.jpg",
+      "bytes": 622506,
+      "sha256": "1883985eff649e4a70334a2c07b38296fb50f547e3013ff36fcc0904d13de92e",
+      "kind": "jpg",
+      "width": 1920,
+      "height": 1280,
       "frames": 1
     },
     {

@@ -99,9 +99,27 @@ report_photo_replacements:
       sources: ["1786549518067.jpg"]
   transform: "Fresh JPEG/JFIF derivatives; scale/letterbox only; no EXIF, XMP, ICC, GPS, or device metadata."
 
+
+competition_photos_20261119:
+  publication_request: "Four user-supplied competition photos designated for the public repository homepage."
+  transform: "Full frames and visible event watermarks retained; pixels re-encoded as JPEG without EXIF, GPS, XMP or device metadata."
+  files:
+    - source: "微信图片_20261119173330_613_3.jpg"
+      source_sha256: "73dd22f32bbfe722464467b1d7ece26e742e375fa53cb89e4221fdcd59fbdd40"
+      derivative: "photos/competition-system-overview.jpg"
+    - source: "微信图片_20261119173330_614_3.jpg"
+      source_sha256: "145eeaf13700f4ec594db0969715f79bc2003d6061dbdd5cbb443884174a0d44"
+      derivative: "photos/competition-mobile-platform.jpg"
+    - source: "微信图片_20261119173328_611_3.jpg"
+      source_sha256: "e2d24850e58d26857d2b97dfeea7f048cd0510a5cbe82ec4f4fdaa2d4053c96b"
+      derivative: "photos/competition-dashboard-and-sensors.jpg"
+    - source: "微信图片_20261119173329_612_3.jpg"
+      source_sha256: "4ae20dd4837d08ed4d75c9201242ef5cfd10b66ad6b24685d05b85206bed5900"
+      derivative: "photos/competition-dual-arm-workcell.jpg"
+
 validation:
   machine_manifest: "MEDIA_MANIFEST.json"
-  manifest_entries: 22
+  manifest_entries: 26
   images_metadata_stripped: true
   video_audio_streams: 0
   phone_or_location_metadata_found: false

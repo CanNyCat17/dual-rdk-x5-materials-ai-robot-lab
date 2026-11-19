@@ -1,12 +1,18 @@
 # Material-Synthesis AI Prediction and Multi-Robot Embodied Laboratory Assistant Based on Dual-RDK X5 Heterogeneous Collaboration | 2026 National College Student Embedded Chip and System Design Competition · Chip Application Division · D-Robotics Topic | Southwest Regional First Prize · National Final Second Prize
 
+[![Dual RDK X5 system overview](assets/media/photos/competition-system-overview.jpg)](assets/media/photos/competition-system-overview.jpg)
+
+[Play the complete physical dual-arm workflow](assets/media/videos/dual-arm-complete-hardware-demo.mp4) · [Full photo gallery](docs/gallery.md)
+
+| Mobile laboratory assistant | Tablet workflow and perception hardware | Fixed dual-arm workcell |
+| --- | --- | --- |
+| [![Mobile laboratory assistant](assets/media/photos/competition-mobile-platform.jpg)](assets/media/photos/competition-mobile-platform.jpg) | [![Tablet workflow and perception hardware](assets/media/photos/competition-dashboard-and-sensors.jpg)](assets/media/photos/competition-dashboard-and-sensors.jpg) | [![Fixed dual-arm workcell](assets/media/photos/competition-dual-arm-workcell.jpg)](assets/media/photos/competition-dual-arm-workcell.jpg) |
+
 **Official Chinese project title:** 基于双 RDK X5 异构协同的材料合成 AI 预测与多机具身实验助理机器人
 
 > **2026 National College Student Embedded Chip and System Design Competition · Chip Application Division · D-Robotics Topic · Southwest Regional First Prize · National Final Second Prize**
 >
 > Team: **荧光具身智研**. Official award certificates for the Southwest Regional First Prize and National Final Second Prize are public and SHA-256-bound to the award source of truth.
-
-[![Latest project hardware: mobile laboratory assistant and dual-arm workstation](assets/media/hero/project-hardware-hero.webp)](docs/gallery.md)
 
 Two RDK X5 computers divide materials-AI and embodied-perception workloads, connecting material candidates, XRD/PL analysis, a mobile laboratory assistant, dual arms, an STM32F407 execution layer, and a read-only evidence portal into a traceable, authority-separated experimental system.
 

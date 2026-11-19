@@ -5,6 +5,16 @@
 > [!IMPORTANT]
 > 这些媒体记录特定工装、固定任务和一次真机演示。人工准备、安全员入镜、屏幕读数与物理动作均按原画面保留；不能据此推导完全自主、无人值守、学习策略泛化或跨数据集性能。
 
+## 竞赛项目实拍
+
+[![双 RDK X5 系统全景](../assets/media/photos/competition-system-overview.jpg)](../assets/media/photos/competition-system-overview.jpg)
+
+| 移动实验助理整机 | 平板工作流与感知硬件 | 双机械臂固定工位 |
+| --- | --- | --- |
+| [![移动实验助理整机](../assets/media/photos/competition-mobile-platform.jpg)](../assets/media/photos/competition-mobile-platform.jpg) | [![平板工作流与感知硬件](../assets/media/photos/competition-dashboard-and-sensors.jpg)](../assets/media/photos/competition-dashboard-and-sensors.jpg) | [![双机械臂固定工位](../assets/media/photos/competition-dual-arm-workcell.jpg)](../assets/media/photos/competition-dual-arm-workcell.jpg) |
+
+[播放双机械臂完整实机演示](../assets/media/videos/dual-arm-complete-hardware-demo.mp4)
+
 ## 获奖证书
 
 | 西南赛区一等奖 | 全国总决赛二等奖 |
